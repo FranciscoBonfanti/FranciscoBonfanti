@@ -29,7 +29,7 @@
 <!--Languages and Tools Section-->       
 ---
 
-<h1 align="center">TWCNOLOGÍAS APRENDIDAS</h1>
+<h1 align="center">TECNOLOGÍAS APRENDIDAS</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
