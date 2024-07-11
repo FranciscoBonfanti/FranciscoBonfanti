@@ -55,8 +55,9 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fran&quote=Programa%o%serás%programado.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fran&quote=Programa%20o%20serás%20programado.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
